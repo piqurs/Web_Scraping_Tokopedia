@@ -6,6 +6,7 @@ Web Scraping Tokopedia That Extract Product of category Phones
 - Save it as `csv` file
 
 ## How To Run :
+- Install request `pip install requests`
 - Install pandas `pip install pandas`
 - Install BeautifulSoup `pip install bs4`
 - Run the program `python Toped.py`
